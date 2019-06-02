@@ -1,0 +1,351 @@
+{   
+    "likednya": {
+        "type": "flex",
+        "altText": "Post Liked..",
+        "contents": {
+            "type": "bubble",
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Post Liked",
+                        "color": "#000000",
+                        "align": "center",
+                        "weight":"bold",
+                        "wrap": true
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "action": {
+                   "type": "uri",
+                   "uri": "line://ti/p/%40jix5504f"
+               },
+               "contents": [
+                   {
+                        "type": "text",
+                        "text": "Ayam BOT Dev",
+                        "weight": "bold",
+                        "color": "#ffffff",
+                        "align": "center"
+                   }
+                ]   
+            },
+            "styles": {
+                "body": {
+                    "backgroundColor": "#ffda6b"
+                },
+                "footer": {
+                    "backgroundColor": "#f9bb00"
+                }
+            }
+        }
+    },
+    "responMentionOn": {
+        "type": "flex",
+        "altText": "Mention On",
+        "contents": {
+            "type": "bubble",
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "action": {
+                   "type": "uri",
+                   "uri": "line://ti/p/%40jix5504f"
+               },
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Respon Mention Diaktifkan",
+                        "color": "#000000",
+                        "align": "center",
+                        "weight":"bold",
+                        "wrap": true
+                    }
+                ]
+            },
+            "styles": {
+                "body": {
+                    "backgroundColor": "#ffda6b"
+                }
+            }
+        }
+    },
+    "responMentionOff": {
+        "type": "flex",
+        "altText": "Mention Off",
+        "contents": {
+            "type": "bubble",
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "action": {
+                   "type": "uri",
+                   "uri": "line://ti/p/%40jix5504f"
+               },
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Respon Mention Dinonaktifkan",
+                        "color": "#000000",
+                        "align": "center",
+                        "weight":"bold",
+                        "wrap": true
+                    }
+                ]
+            },
+            "styles": {
+                "body": {
+                    "backgroundColor": "#ffda6b"
+                }
+            }
+        }
+    },
+    "restartnya": {
+        "type": "flex",
+        "altText": "Restarting..",
+        "contents": {
+            "type": "bubble",
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "action": {
+                   "type": "uri",
+                   "uri": "line://ti/p/%40jix5504f"
+               },
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Restarted",
+                        "color": "#000000",
+                        "align": "center",
+                        "weight":"bold",
+                        "wrap": true
+                    }
+                ]
+            },
+            "styles": {
+                "body": {
+                    "backgroundColor": "#ffda6b"
+                }
+            }
+        }
+    },
+    "shutdownnya": {
+        "type": "flex",
+        "altText": "Shutdown..",
+        "contents": {
+            "type": "bubble",
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "action": {
+                   "type": "uri",
+                   "uri": "line://ti/p/%40jix5504f"
+               },
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Shutdowned",
+                        "color": "#000000",
+                        "align": "center",
+                        "weight":"bold",
+                        "wrap": true
+                    }
+                ]
+            },
+            "styles": {
+                "body": {
+                    "backgroundColor": "#ffda6b"
+                }
+            }
+        }
+    },
+    "aboutnya": {
+        "type": "flex",
+        "altText": "About Us",
+        "contents": {
+            "type": "bubble",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "[ About ]",
+                        "color": "#000000",
+                        "align": "center",
+                        "size": "lg",
+                        "weight":"bold"
+                    }
+                ]
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Version : 1.0",
+                        "color": "#000000",
+                        "wrap": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Release Date : 31st, March 2019",
+                        "color": "#000000",
+                        "wrap": true
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "action": {
+                   "type": "uri",
+                   "uri": "line://ti/p/%40jix5504f"
+               },
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Ayam BOT Dev",
+                        "align": "center",
+                        "weight": "bold",
+                        "color": "#ffffff"
+                    }
+                ]
+            },
+            "styles": {
+                "header": {
+                    "backgroundColor": "#f9bb00"
+                },
+                "body": {
+                    "backgroundColor": "#ffda6b"
+                },
+                "footer": {
+                    "backgroundColor": "#f9bb00"
+                }
+            }
+            
+        }
+    },
+    "mehelp": {
+        "type": "flex",
+        "altText": "Self Helper",
+        "contents": {
+            "type": "bubble",
+            "hero": {
+                "type": "image",
+                "url": "https://i1.wp.com/thidiweb.com/wp-content/uploads/2017/08/jenis-sifat-keyword-e1501836298178.png?resize=750%2C309&ssl=1",
+                "size": "full",
+                "aspectRatio":"4:1"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "> Me\n> Mentionall\n> Changepicture\n> Autoadd [on/off]\n> Autojoin [on/off]\n> Autolike [on/off]\n> Respon [on/off]\n> Sapa [on/off]\n> Restart \n> Shutdown",
+                        "color": "#000000",
+                        "wrap": true
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "action": {
+                   "type": "uri",
+                   "uri": "line://ti/p/%40jix5504f"
+               },
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Ayam BOT Dev",
+                        "align": "center",
+                        "weight": "bold",
+                        "color": "#ffffff"
+                    }
+                ]
+            },
+            "styles": {
+                "hero": {
+                    "backgroundColor": "#f9bb00"
+                },
+                "body": {
+                    "backgroundColor": "#ffda6b"
+                },
+                "footer": {
+                    "backgroundColor": "#f9bb00"
+                }
+            }
+            
+        }
+    },
+    "helpnya": {
+        "type": "flex",
+        "altText": "Public Helper",
+        "contents": {
+            "type": "bubble",
+            "hero": {
+                "type": "image",
+                "url": "https://i1.wp.com/thidiweb.com/wp-content/uploads/2017/08/jenis-sifat-keyword-e1501836298178.png?resize=750%2C309&ssl=1",
+                "size": "full",
+                "aspectRatio": "4:1"
+            },
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "[ KEYWORD ]",
+                        "color": "#000000",
+                        "align": "center",
+                        "weight":"bold"
+                    },
+                    {
+                        "type": "text",
+                        "text": "> About\n> Creator",
+                        "color": "#000000",
+                        "wrap": true
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "action": {
+                   "type": "uri",
+                   "uri": "line://ti/p/%40jix5504f"
+               },
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Ayam BOT Dev",
+                        "align": "center",
+                        "weight": "bold",
+                        "color": "#ffffff"
+                    }
+                ]
+            },
+            "styles": {
+                "hero": {
+                    "backgroundColor": "#f9bb00"
+                },
+                "body": {
+                    "backgroundColor": "#ffda6b"
+                },
+                "footer": {
+                    "backgroundColor": "#f9bb00"
+                }
+            }
+            
+        }
+    }
+}

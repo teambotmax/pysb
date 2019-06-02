@@ -1,0 +1,558 @@
+
+[ Kamis, 07 - 03 - 2019 | 17:12:31 ] 'LINE' object has no attribute 'speedCheck'
+[ Kamis, 07 - 03 - 2019 | 17:13:42 ] local variable 'to' referenced before assignment
+[ Kamis, 07 - 03 - 2019 | 17:54:33 ] local variable 'to' referenced before assignment
+[ Kamis, 07 - 03 - 2019 | 18:01:40 ] sendReplyMessage() missing 1 required positional argument: 'text'
+[ Kamis, 07 - 03 - 2019 | 18:01:55 ] sendReplyMessage() missing 1 required positional argument: 'text'
+[ Kamis, 07 - 03 - 2019 | 18:02:16 ] sendReplyMessage() missing 1 required positional argument: 'text'
+[ Kamis, 07 - 03 - 2019 | 18:03:21 ] sendReplyMessage() missing 1 required positional argument: 'text'
+[ Kamis, 07 - 03 - 2019 | 18:03:50 ] sendReplyMessage() missing 1 required positional argument: 'text'
+[ Kamis, 07 - 03 - 2019 | 18:37:29 ] list index out of range
+[ Kamis, 07 - 03 - 2019 | 19:00:10 ] name 'ayamMID' is not defined
+[ Kamis, 07 - 03 - 2019 | 19:00:25 ] name 'ayamMID' is not defined
+[ Kamis, 07 - 03 - 2019 | 19:00:40 ] name 'ayamMID' is not defined
+[ Kamis, 07 - 03 - 2019 | 19:00:42 ] name 'ayamMID' is not defined
+[ Kamis, 07 - 03 - 2019 | 19:00:49 ] name 'line' is not defined
+[ Kamis, 07 - 03 - 2019 | 19:01:24 ] name 'ayamMID' is not defined
+[ Kamis, 07 - 03 - 2019 | 19:02:14 ] list index out of range
+[ Kamis, 07 - 03 - 2019 | 19:14:36 ] Invalid mids
+[ Kamis, 07 - 03 - 2019 | 19:17:06 ] TalkException(code=0, parameterMap={}, reason='unable to find midType')
+[ Kamis, 07 - 03 - 2019 | 19:21:25 ] 'NoneType' object has no attribute 'to'
+[ Kamis, 07 - 03 - 2019 | 19:25:59 ] object of type 'NoneType' has no len()
+[ Kamis, 07 - 03 - 2019 | 19:28:11 ] TalkException(reason='can not send using plain mode', code=82, parameterMap=None)
+[ Kamis, 07 - 03 - 2019 | 19:31:25 ] Invalid mids
+[ Kamis, 07 - 03 - 2019 | 19:32:48 ] Invalid mids
+[ Kamis, 07 - 03 - 2019 | 19:34:39 ] Invalid mids
+[ Kamis, 07 - 03 - 2019 | 23:03:02 ] list index out of range
+[ Jumat, 08 - 03 - 2019 | 15:44:02 ] list index out of range
+[ Jumat, 08 - 03 - 2019 | 22:42:49 ] list index out of range
+[ Jumat, 08 - 03 - 2019 | 22:43:33 ] list index out of range
+[ Jumat, 08 - 03 - 2019 | 22:46:49 ] list index out of range
+[ Jumat, 08 - 03 - 2019 | 22:52:50 ] list index out of range
+[ Sabtu, 09 - 03 - 2019 | 12:38:20 ] list index out of range
+[ Sabtu, 09 - 03 - 2019 | 13:29:12 ] list index out of range
+[ Sabtu, 09 - 03 - 2019 | 13:35:41 ] list index out of range
+[ Sabtu, 09 - 03 - 2019 | 13:36:55 ] list index out of range
+[ Sabtu, 09 - 03 - 2019 | 13:37:38 ] list index out of range
+[ Sabtu, 09 - 03 - 2019 | 14:36:50 ] list index out of range
+[ Sabtu, 09 - 03 - 2019 | 16:21:31 ] list index out of range
+[ Sabtu, 09 - 03 - 2019 | 16:53:09 ] list index out of range
+[ Minggu, 10 - 03 - 2019 | 01:11:00 ] list index out of range
+[ Minggu, 10 - 03 - 2019 | 03:06:31 ] list index out of range
+[ Minggu, 10 - 03 - 2019 | 06:39:36 ] list index out of range
+[ Minggu, 10 - 03 - 2019 | 19:42:04 ] TalkException(code=8, parameterMap=None, reason='IDENTIFY_MODIFIED')
+[ Minggu, 10 - 03 - 2019 | 20:50:16 ] 'LINE' object has no attribute 'sendFlex'
+[ Minggu, 10 - 03 - 2019 | 20:54:55 ] 'LINE' object has no attribute 'sendFlex'
+[ Minggu, 10 - 03 - 2019 | 20:57:10 ] name 'LiffChatContext' is not defined
+[ Minggu, 10 - 03 - 2019 | 20:58:11 ] name 'LiffChatContext' is not defined
+[ Minggu, 10 - 03 - 2019 | 21:13:38 ] 'LINE' object has no attribute 'liff'
+[ Minggu, 10 - 03 - 2019 | 21:35:19 ] LiffException(message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1623679774', consentUrl='https://access.line.me/dialog/allow?type=liff&channelId=1623679774&locale&scope=CM+P')), code=3)
+[ Minggu, 10 - 03 - 2019 | 22:11:18 ] LiffException(message='user consent required', code=3, payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1623679774', consentUrl='https://access.line.me/dialog/allow?type=liff&channelId=1623679774&locale&scope=CM+P')))
+[ Minggu, 10 - 03 - 2019 | 22:41:15 ] local variable 'to' referenced before assignment
+[ Minggu, 10 - 03 - 2019 | 22:52:32 ] name 'St' is not defined
+[ Minggu, 10 - 03 - 2019 | 23:06:00 ] list index out of range
+[ Senin, 11 - 03 - 2019 | 00:46:22 ] list index out of range
+[ Selasa, 12 - 03 - 2019 | 00:21:01 ] list index out of range
+[ Selasa, 12 - 03 - 2019 | 23:44:23 ] list index out of range
+[ Rabu, 13 - 03 - 2019 | 00:10:42 ] list index out of range
+[ Rabu, 13 - 03 - 2019 | 22:15:40 ] list index out of range
+[ Kamis, 14 - 03 - 2019 | 01:11:44 ] list index out of range
+[ Kamis, 14 - 03 - 2019 | 01:46:38 ] list index out of range
+[ Jumat, 15 - 03 - 2019 | 02:04:58 ] list index out of range
+[ Jumat, 15 - 03 - 2019 | 02:40:33 ] list index out of range
+[ Jumat, 15 - 03 - 2019 | 02:45:37 ] list index out of range
+[ Jumat, 15 - 03 - 2019 | 03:15:27 ] list index out of range
+[ Jumat, 15 - 03 - 2019 | 03:37:58 ] list index out of range
+[ Jumat, 15 - 03 - 2019 | 03:49:12 ] list index out of range
+[ Jumat, 15 - 03 - 2019 | 03:51:32 ] list index out of range
+[ Jumat, 15 - 03 - 2019 | 09:54:38 ] list index out of range
+[ Sabtu, 16 - 03 - 2019 | 05:20:19 ] list index out of range
+[ Sabtu, 16 - 03 - 2019 | 16:51:59 ] list index out of range
+[ Sabtu, 16 - 03 - 2019 | 19:26:18 ] list index out of range
+[ Sabtu, 16 - 03 - 2019 | 20:43:59 ] list index out of range
+[ Minggu, 17 - 03 - 2019 | 06:53:29 ] list index out of range
+[ Minggu, 17 - 03 - 2019 | 18:29:37 ] list index out of range
+[ Minggu, 17 - 03 - 2019 | 18:32:23 ] list index out of range
+[ Minggu, 17 - 03 - 2019 | 20:38:51 ] list index out of range
+[ Rabu, 20 - 03 - 2019 | 03:17:39 ] list index out of range
+[ Rabu, 20 - 03 - 2019 | 21:44:25 ] list index out of range
+[ Kamis, 21 - 03 - 2019 | 23:14:45 ] list index out of range
+[ Kamis, 21 - 03 - 2019 | 23:59:21 ] list index out of range
+[ Jumat, 22 - 03 - 2019 | 13:33:13 ] list index out of range
+[ Sabtu, 23 - 03 - 2019 | 01:35:20 ] list index out of range
+[ Sabtu, 23 - 03 - 2019 | 02:19:36 ] list index out of range
+[ Sabtu, 23 - 03 - 2019 | 02:52:13 ] list index out of range
+[ Sabtu, 23 - 03 - 2019 | 23:04:19 ] list index out of range
+[ Minggu, 24 - 03 - 2019 | 04:43:03 ] list index out of range
+[ Minggu, 24 - 03 - 2019 | 21:26:40 ] TalkException(reason='not a buddy or LineAt', code=35, parameterMap=None)
+[ Minggu, 24 - 03 - 2019 | 22:09:12 ] list index out of range
+[ Minggu, 24 - 03 - 2019 | 22:11:27 ] list index out of range
+[ Minggu, 24 - 03 - 2019 | 22:13:44 ] list index out of range
+[ Minggu, 24 - 03 - 2019 | 22:14:52 ] list index out of range
+[ Senin, 25 - 03 - 2019 | 05:48:42 ] list index out of range
+[ Selasa, 26 - 03 - 2019 | 03:04:32 ] list index out of range
+[ Selasa, 26 - 03 - 2019 | 07:00:10 ] list index out of range
+[ Rabu, 27 - 03 - 2019 | 01:56:35 ] list index out of range
+[ Rabu, 27 - 03 - 2019 | 03:03:51 ] list index out of range
+[ Rabu, 27 - 03 - 2019 | 03:06:37 ] list index out of range
+[ Rabu, 27 - 03 - 2019 | 05:33:09 ] list index out of range
+[ Rabu, 27 - 03 - 2019 | 07:10:04 ] list index out of range
+[ Rabu, 27 - 03 - 2019 | 08:06:52 ] list index out of range
+[ Rabu, 27 - 03 - 2019 | 08:52:35 ] list index out of range
+[ Rabu, 27 - 03 - 2019 | 16:29:05 ] list index out of range
+[ Rabu, 27 - 03 - 2019 | 23:33:27 ] list index out of range
+[ Rabu, 27 - 03 - 2019 | 23:50:38 ] list index out of range
+[ Kamis, 28 - 03 - 2019 | 00:08:46 ] list index out of range
+[ Kamis, 28 - 03 - 2019 | 20:08:36 ] list index out of range
+[ Kamis, 28 - 03 - 2019 | 20:15:31 ] list index out of range
+[ Kamis, 28 - 03 - 2019 | 20:28:11 ] list index out of range
+[ Kamis, 28 - 03 - 2019 | 22:57:11 ] list index out of range
+[ Kamis, 28 - 03 - 2019 | 23:03:41 ] list index out of range
+[ Kamis, 28 - 03 - 2019 | 23:45:06 ] list index out of range
+[ Kamis, 28 - 03 - 2019 | 23:47:06 ] list index out of range
+[ Kamis, 28 - 03 - 2019 | 23:49:49 ] list index out of range
+[ Kamis, 28 - 03 - 2019 | 23:54:38 ] list index out of range
+[ Jumat, 29 - 03 - 2019 | 05:31:06 ] local variable 'cmd' referenced before assignment
+[ Jumat, 29 - 03 - 2019 | 05:31:14 ] local variable 'cmd' referenced before assignment
+[ Jumat, 29 - 03 - 2019 | 05:31:14 ] local variable 'cmd' referenced before assignment
+[ Jumat, 29 - 03 - 2019 | 05:31:59 ] local variable 'cmd' referenced before assignment
+[ Jumat, 29 - 03 - 2019 | 05:32:33 ] local variable 'to' referenced before assignment
+[ Jumat, 29 - 03 - 2019 | 05:32:48 ] local variable 'to' referenced before assignment
+[ Jumat, 29 - 03 - 2019 | 05:34:05 ] local variable 'to' referenced before assignment
+[ Jumat, 29 - 03 - 2019 | 05:36:49 ] local variable 'creatormid' referenced before assignment
+[ Jumat, 29 - 03 - 2019 | 05:38:05 ] encoding or errors without a string argument
+[ Jumat, 29 - 03 - 2019 | 05:38:57 ] 
+[ Jumat, 29 - 03 - 2019 | 05:49:34 ] local variable 'to' referenced before assignment
+[ Jumat, 29 - 03 - 2019 | 05:53:31 ] 'NoneType' object has no attribute 'lower'
+[ Jumat, 29 - 03 - 2019 | 05:53:36 ] 'NoneType' object has no attribute 'lower'
+[ Jumat, 29 - 03 - 2019 | 05:59:39 ] 'NoneType' object has no attribute 'lower'
+[ Jumat, 29 - 03 - 2019 | 06:04:39 ] list index out of range
+[ Jumat, 29 - 03 - 2019 | 06:11:01 ] 'NoneType' object has no attribute 'lower'
+[ Jumat, 29 - 03 - 2019 | 06:12:34 ] 'NoneType' object has no attribute 'lower'
+[ Jumat, 29 - 03 - 2019 | 06:27:45 ] 'NoneType' object has no attribute 'lower'
+[ Jumat, 29 - 03 - 2019 | 07:30:46 ] 'NoneType' object has no attribute 'lower'
+[ Jumat, 29 - 03 - 2019 | 07:33:05 ] 'NoneType' object has no attribute 'lower'
+[ Jumat, 29 - 03 - 2019 | 07:33:08 ] 'NoneType' object has no attribute 'lower'
+[ Jumat, 29 - 03 - 2019 | 07:33:39 ] 'NoneType' object has no attribute 'lower'
+[ Jumat, 29 - 03 - 2019 | 13:27:53 ] list index out of range
+[ Jumat, 29 - 03 - 2019 | 13:56:51 ] list index out of range
+[ Sabtu, 30 - 03 - 2019 | 22:26:31 ] list index out of range
+[ Minggu, 31 - 03 - 2019 | 00:33:20 ] list index out of range
+[ Minggu, 31 - 03 - 2019 | 06:20:38 ] list index out of range
+[ Minggu, 31 - 03 - 2019 | 17:36:03 ] list index out of range
+[ Minggu, 31 - 03 - 2019 | 17:36:18 ] list index out of range
+[ Minggu, 31 - 03 - 2019 | 20:54:15 ] list index out of range
+[ Senin, 01 - 04 - 2019 | 03:03:24 ] list index out of range
+[ Senin, 01 - 04 - 2019 | 10:50:51 ] list index out of range
+[ Senin, 01 - 04 - 2019 | 10:58:21 ] list index out of range
+[ Senin, 01 - 04 - 2019 | 18:35:11 ] list index out of range
+[ Senin, 01 - 04 - 2019 | 18:36:39 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 02:05:30 ] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1623679774', consentUrl='https://access.line.me/dialog/allow?type=liff&channelId=1623679774&locale&scope=CM+P')))
+[ Selasa, 02 - 04 - 2019 | 02:09:42 ] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1623679774', consentUrl='https://access.line.me/dialog/allow?type=liff&channelId=1623679774&locale&scope=CM+P')))
+[ Selasa, 02 - 04 - 2019 | 05:01:35 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 07:07:43 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 08:33:26 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 09:38:55 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 09:39:17 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 12:44:49 ] TalkException(reason='DEVICE_LOSE', code=8, parameterMap=None)
+[ Selasa, 02 - 04 - 2019 | 14:32:38 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 15:00:40 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 15:23:28 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 15:31:06 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 16:32:07 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 16:37:18 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 17:00:38 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 17:07:58 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 17:08:27 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 17:17:18 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 17:37:50 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 19:24:31 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 20:04:46 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 20:05:33 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 20:06:41 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 20:15:19 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 23:51:43 ] list index out of range
+[ Selasa, 02 - 04 - 2019 | 23:52:49 ] list index out of range
+[ Rabu, 03 - 04 - 2019 | 04:27:06 ] list index out of range
+[ Rabu, 03 - 04 - 2019 | 05:32:59 ] list index out of range
+[ Rabu, 03 - 04 - 2019 | 05:33:21 ] list index out of range
+[ Rabu, 03 - 04 - 2019 | 15:59:45 ] list index out of range
+[ Rabu, 03 - 04 - 2019 | 16:44:59 ] list index out of range
+[ Rabu, 03 - 04 - 2019 | 17:08:57 ] list index out of range
+[ Rabu, 03 - 04 - 2019 | 17:36:48 ] list index out of range
+[ Rabu, 03 - 04 - 2019 | 17:39:08 ] list index out of range
+[ Rabu, 03 - 04 - 2019 | 18:08:55 ] list index out of range
+[ Kamis, 04 - 04 - 2019 | 12:08:02 ] list index out of range
+[ Kamis, 04 - 04 - 2019 | 13:45:56 ] list index out of range
+[ Kamis, 04 - 04 - 2019 | 14:19:40 ] list index out of range
+[ Kamis, 04 - 04 - 2019 | 16:17:09 ] list index out of range
+[ Kamis, 04 - 04 - 2019 | 17:36:41 ] list index out of range
+[ Kamis, 04 - 04 - 2019 | 23:19:02 ] list index out of range
+[ Jumat, 05 - 04 - 2019 | 11:18:07 ] list index out of range
+[ Jumat, 05 - 04 - 2019 | 11:37:24 ] list index out of range
+[ Jumat, 05 - 04 - 2019 | 12:02:01 ] list index out of range
+[ Jumat, 05 - 04 - 2019 | 19:44:29 ] list index out of range
+[ Jumat, 05 - 04 - 2019 | 20:22:27 ] list index out of range
+[ Jumat, 05 - 04 - 2019 | 21:51:04 ] list index out of range
+[ Jumat, 05 - 04 - 2019 | 22:00:37 ] list index out of range
+[ Jumat, 05 - 04 - 2019 | 22:00:48 ] list index out of range
+[ Jumat, 05 - 04 - 2019 | 22:12:54 ] list index out of range
+[ Jumat, 05 - 04 - 2019 | 22:19:14 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 00:47:06 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 03:38:13 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 08:21:43 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 08:30:28 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 09:24:03 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 09:28:49 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 10:11:00 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 10:27:53 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 13:18:55 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 13:55:12 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 14:24:31 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 14:25:10 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 15:01:39 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 15:32:46 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 15:57:15 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 16:14:23 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 17:40:21 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 17:46:07 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 18:27:40 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 20:38:19 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 21:27:57 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 21:28:43 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 22:36:57 ] list index out of range
+[ Sabtu, 06 - 04 - 2019 | 22:50:33 ] list index out of range
+[ Minggu, 07 - 04 - 2019 | 06:59:21 ] list index out of range
+[ Minggu, 07 - 04 - 2019 | 09:46:03 ] list index out of range
+[ Minggu, 07 - 04 - 2019 | 10:20:38 ] list index out of range
+[ Minggu, 07 - 04 - 2019 | 10:24:29 ] list index out of range
+[ Minggu, 07 - 04 - 2019 | 12:59:12 ] list index out of range
+[ Minggu, 07 - 04 - 2019 | 18:15:26 ] list index out of range
+[ Minggu, 07 - 04 - 2019 | 19:17:27 ] list index out of range
+[ Minggu, 07 - 04 - 2019 | 20:28:32 ] list index out of range
+[ Minggu, 07 - 04 - 2019 | 21:07:26 ] list index out of range
+[ Minggu, 07 - 04 - 2019 | 22:32:54 ] list index out of range
+[ Minggu, 07 - 04 - 2019 | 22:48:04 ] list index out of range
+[ Minggu, 07 - 04 - 2019 | 23:49:29 ] list index out of range
+[ Minggu, 07 - 04 - 2019 | 23:58:33 ] list index out of range
+[ Senin, 08 - 04 - 2019 | 02:20:14 ] list index out of range
+[ Senin, 08 - 04 - 2019 | 05:12:56 ] list index out of range
+[ Senin, 08 - 04 - 2019 | 06:03:26 ] list index out of range
+[ Senin, 08 - 04 - 2019 | 08:16:25 ] list index out of range
+[ Senin, 08 - 04 - 2019 | 10:33:43 ] list index out of range
+[ Senin, 08 - 04 - 2019 | 14:19:57 ] list index out of range
+[ Senin, 08 - 04 - 2019 | 21:28:30 ] list index out of range
+[ Senin, 08 - 04 - 2019 | 21:32:48 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 00:01:37 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 00:06:33 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 00:10:32 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 00:26:50 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 04:13:28 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 11:48:01 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 11:49:10 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 11:52:59 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 14:54:19 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 17:57:52 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 18:38:54 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 18:57:16 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 19:36:12 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 19:57:56 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 20:00:18 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 20:35:52 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 21:27:01 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 22:46:29 ] list index out of range
+[ Selasa, 09 - 04 - 2019 | 22:51:55 ] list index out of range
+[ Rabu, 10 - 04 - 2019 | 00:13:05 ] list index out of range
+[ Rabu, 10 - 04 - 2019 | 06:37:31 ] list index out of range
+[ Rabu, 10 - 04 - 2019 | 07:47:07 ] list index out of range
+[ Rabu, 10 - 04 - 2019 | 20:01:32 ] list index out of range
+[ Rabu, 10 - 04 - 2019 | 21:12:38 ] list index out of range
+[ Rabu, 10 - 04 - 2019 | 23:37:47 ] list index out of range
+[ Rabu, 10 - 04 - 2019 | 23:39:11 ] list index out of range
+[ Kamis, 11 - 04 - 2019 | 02:53:22 ] list index out of range
+[ Kamis, 11 - 04 - 2019 | 04:22:49 ] list index out of range
+[ Kamis, 11 - 04 - 2019 | 06:22:51 ] list index out of range
+[ Kamis, 11 - 04 - 2019 | 12:34:20 ] list index out of range
+[ Kamis, 11 - 04 - 2019 | 13:27:51 ] list index out of range
+[ Kamis, 11 - 04 - 2019 | 17:33:52 ] list index out of range
+[ Kamis, 11 - 04 - 2019 | 17:59:43 ] list index out of range
+[ Kamis, 11 - 04 - 2019 | 18:03:05 ] list index out of range
+[ Kamis, 11 - 04 - 2019 | 19:43:55 ] list index out of range
+[ Kamis, 11 - 04 - 2019 | 20:55:58 ] list index out of range
+[ Kamis, 11 - 04 - 2019 | 21:59:14 ] TalkException(code=3, reason='no contact: uc8552852dce170cbc5be0fa8245c2f83', parameterMap=None)
+[ Kamis, 11 - 04 - 2019 | 23:23:22 ] list index out of range
+[ Jumat, 12 - 04 - 2019 | 08:28:52 ] list index out of range
+[ Jumat, 12 - 04 - 2019 | 11:23:22 ] list index out of range
+[ Jumat, 12 - 04 - 2019 | 14:14:12 ] list index out of range
+[ Jumat, 12 - 04 - 2019 | 16:03:03 ] list index out of range
+[ Jumat, 12 - 04 - 2019 | 22:21:03 ] list index out of range
+[ Jumat, 12 - 04 - 2019 | 22:27:27 ] list index out of range
+[ Sabtu, 13 - 04 - 2019 | 05:19:33 ] list index out of range
+[ Sabtu, 13 - 04 - 2019 | 06:38:36 ] list index out of range
+[ Sabtu, 13 - 04 - 2019 | 07:25:49 ] list index out of range
+[ Minggu, 14 - 04 - 2019 | 00:39:20 ] list index out of range
+[ Minggu, 14 - 04 - 2019 | 00:39:21 ] list index out of range
+[ Minggu, 14 - 04 - 2019 | 00:39:22 ] list index out of range
+[ Minggu, 14 - 04 - 2019 | 03:44:37 ] list index out of range
+[ Minggu, 14 - 04 - 2019 | 04:32:26 ] list index out of range
+[ Minggu, 14 - 04 - 2019 | 07:01:03 ] list index out of range
+[ Minggu, 14 - 04 - 2019 | 10:01:24 ] list index out of range
+[ Minggu, 14 - 04 - 2019 | 14:36:11 ] list index out of range
+[ Minggu, 14 - 04 - 2019 | 14:42:23 ] list index out of range
+[ Minggu, 14 - 04 - 2019 | 20:47:30 ] list index out of range
+[ Minggu, 14 - 04 - 2019 | 20:48:30 ] list index out of range
+[ Minggu, 14 - 04 - 2019 | 21:06:56 ] list index out of range
+[ Senin, 15 - 04 - 2019 | 01:54:18 ] list index out of range
+[ Senin, 15 - 04 - 2019 | 09:26:35 ] list index out of range
+[ Senin, 15 - 04 - 2019 | 09:26:55 ] list index out of range
+[ Senin, 15 - 04 - 2019 | 09:29:26 ] list index out of range
+[ Senin, 15 - 04 - 2019 | 09:30:02 ] list index out of range
+[ Senin, 15 - 04 - 2019 | 09:35:12 ] list index out of range
+[ Senin, 15 - 04 - 2019 | 14:20:27 ] list index out of range
+[ Senin, 15 - 04 - 2019 | 15:41:27 ] list index out of range
+[ Senin, 15 - 04 - 2019 | 17:54:39 ] list index out of range
+[ Senin, 15 - 04 - 2019 | 18:29:24 ] list index out of range
+[ Senin, 15 - 04 - 2019 | 19:19:33 ] list index out of range
+[ Senin, 15 - 04 - 2019 | 19:59:51 ] list index out of range
+[ Selasa, 16 - 04 - 2019 | 12:16:39 ] list index out of range
+[ Selasa, 16 - 04 - 2019 | 12:17:35 ] list index out of range
+[ Selasa, 16 - 04 - 2019 | 13:07:49 ] list index out of range
+[ Selasa, 16 - 04 - 2019 | 23:00:37 ] list index out of range
+[ Kamis, 18 - 04 - 2019 | 00:35:12 ] list index out of range
+[ Jumat, 19 - 04 - 2019 | 19:06:52 ] list index out of range
+[ Jumat, 19 - 04 - 2019 | 21:33:35 ] list index out of range
+[ Jumat, 19 - 04 - 2019 | 22:40:31 ] list index out of range
+[ Sabtu, 20 - 04 - 2019 | 01:53:04 ] list index out of range
+[ Sabtu, 20 - 04 - 2019 | 02:13:42 ] list index out of range
+[ Sabtu, 20 - 04 - 2019 | 15:16:25 ] list index out of range
+[ Sabtu, 20 - 04 - 2019 | 15:24:25 ] list index out of range
+[ Sabtu, 20 - 04 - 2019 | 20:35:15 ] list index out of range
+[ Sabtu, 20 - 04 - 2019 | 21:53:25 ] list index out of range
+[ Sabtu, 20 - 04 - 2019 | 22:00:51 ] list index out of range
+[ Sabtu, 20 - 04 - 2019 | 22:01:39 ] list index out of range
+[ Sabtu, 20 - 04 - 2019 | 22:03:36 ] list index out of range
+[ Sabtu, 20 - 04 - 2019 | 22:08:36 ] list index out of range
+[ Sabtu, 20 - 04 - 2019 | 23:16:02 ] list index out of range
+[ Sabtu, 20 - 04 - 2019 | 23:51:12 ] list index out of range
+[ Minggu, 21 - 04 - 2019 | 14:24:46 ] list index out of range
+[ Minggu, 21 - 04 - 2019 | 15:17:26 ] list index out of range
+[ Minggu, 21 - 04 - 2019 | 17:02:36 ] list index out of range
+[ Minggu, 21 - 04 - 2019 | 17:32:56 ] list index out of range
+[ Minggu, 21 - 04 - 2019 | 18:43:42 ] list index out of range
+[ Minggu, 21 - 04 - 2019 | 19:06:37 ] list index out of range
+[ Minggu, 21 - 04 - 2019 | 20:49:08 ] list index out of range
+[ Minggu, 21 - 04 - 2019 | 22:06:48 ] list index out of range
+[ Minggu, 21 - 04 - 2019 | 22:34:22 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 01:01:18 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 01:03:55 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 01:08:13 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 14:09:17 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 15:07:07 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 16:18:17 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 16:35:36 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 17:42:53 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 18:28:22 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 19:10:55 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 20:16:51 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 20:17:31 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 20:17:54 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 20:52:24 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 21:13:24 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 22:21:35 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 22:31:44 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 22:43:36 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 23:07:50 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 23:13:30 ] list index out of range
+[ Senin, 22 - 04 - 2019 | 23:47:40 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 00:00:13 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 00:26:30 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 01:02:14 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 16:23:02 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 17:33:19 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 18:32:52 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 18:40:23 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 19:05:27 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 19:36:53 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 19:42:11 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 20:18:05 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 20:59:33 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 21:00:04 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 21:01:52 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 22:17:35 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 22:27:43 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 22:28:26 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 22:32:17 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 23:25:51 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 23:26:09 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 23:27:51 ] list index out of range
+[ Selasa, 23 - 04 - 2019 | 23:59:32 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 00:02:14 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 00:05:26 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 00:18:34 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 00:55:52 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 02:43:21 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 02:43:27 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 03:07:59 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 06:34:06 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 06:54:34 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 08:03:37 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 08:38:46 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 08:42:31 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 09:39:49 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 09:40:02 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 10:24:58 ] TalkException(code=10, parameterMap={'2': 'c642fc5c77a51a96fb5168d0242a9343d'}, reason='You are not related to group: c642fc5c77a51a96fb5168d0242a9343d')
+[ Rabu, 24 - 04 - 2019 | 18:28:40 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 19:22:08 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 21:17:32 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 21:57:55 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 22:01:41 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 22:02:28 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 22:02:55 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 22:03:48 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 22:05:03 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 22:05:21 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 23:09:50 ] list index out of range
+[ Rabu, 24 - 04 - 2019 | 23:40:54 ] list index out of range
+[ Kamis, 25 - 04 - 2019 | 02:24:17 ] list index out of range
+[ Kamis, 25 - 04 - 2019 | 02:24:26 ] list index out of range
+[ Kamis, 25 - 04 - 2019 | 03:05:55 ] list index out of range
+[ Kamis, 25 - 04 - 2019 | 04:01:58 ] list index out of range
+[ Kamis, 25 - 04 - 2019 | 04:03:07 ] list index out of range
+[ Kamis, 25 - 04 - 2019 | 05:06:30 ] list index out of range
+[ Kamis, 25 - 04 - 2019 | 12:56:34 ] list index out of range
+[ Kamis, 25 - 04 - 2019 | 13:31:02 ] list index out of range
+[ Kamis, 25 - 04 - 2019 | 13:50:56 ] list index out of range
+[ Kamis, 25 - 04 - 2019 | 14:03:11 ] list index out of range
+[ Kamis, 25 - 04 - 2019 | 14:09:08 ] list index out of range
+[ Kamis, 25 - 04 - 2019 | 17:31:36 ] list index out of range
+[ Kamis, 25 - 04 - 2019 | 18:22:59 ] HTTPSConnectionPool(host='gd2.line.naver.jp', port=443): Max retries exceeded with url: /mh/api/v39/like/create.json?homeId=u0fd8c8e80f903920c76837478019ac83&sourceType=TIMELINE (Caused by <class 'http.client.BadStatusLine'>: '')
+[ Kamis, 25 - 04 - 2019 | 18:34:49 ] list index out of range
+[ Kamis, 25 - 04 - 2019 | 22:14:54 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 03:16:18 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 03:24:52 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 04:56:46 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 05:11:31 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 06:51:22 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 08:00:38 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 11:19:03 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 12:59:30 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 14:11:15 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 16:14:34 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 16:34:13 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 17:26:43 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 18:13:12 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 18:13:57 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 18:14:17 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 19:40:10 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 20:25:17 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 20:30:43 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 20:33:55 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 20:36:39 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 22:23:06 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 22:41:50 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 22:54:09 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 22:54:50 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 22:55:02 ] list index out of range
+[ Jumat, 26 - 04 - 2019 | 23:02:23 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 11:15:45 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 11:16:29 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 11:22:18 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 11:36:14 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 11:54:28 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 12:22:38 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 12:25:31 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 15:26:49 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 16:41:05 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 17:07:22 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 17:50:16 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 17:51:12 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 19:54:25 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 20:05:59 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 20:53:02 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 21:08:32 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 21:22:40 ] TalkException(reason='You are not related to group: cca6deec5ebd80cdbf5fc7e660674aa73', parameterMap={'2': 'cca6deec5ebd80cdbf5fc7e660674aa73'}, code=10)
+[ Sabtu, 27 - 04 - 2019 | 21:25:05 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 22:11:19 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 23:23:51 ] list index out of range
+[ Sabtu, 27 - 04 - 2019 | 23:48:04 ] list index out of range
+[ Minggu, 28 - 04 - 2019 | 07:56:29 ] list index out of range
+[ Minggu, 28 - 04 - 2019 | 08:29:42 ] list index out of range
+[ Minggu, 28 - 04 - 2019 | 10:08:05 ] list index out of range
+[ Minggu, 28 - 04 - 2019 | 10:40:47 ] list index out of range
+[ Minggu, 28 - 04 - 2019 | 10:59:19 ] TalkException(reason='You are not related to group: cd8d555ae1463e2dd1c2a49c8002bbf4d', parameterMap={'2': 'cd8d555ae1463e2dd1c2a49c8002bbf4d'}, code=10)
+[ Minggu, 28 - 04 - 2019 | 10:59:21 ] TalkException(reason='You are not related to group: cd8d555ae1463e2dd1c2a49c8002bbf4d', parameterMap={'2': 'cd8d555ae1463e2dd1c2a49c8002bbf4d'}, code=10)
+[ Minggu, 28 - 04 - 2019 | 11:11:59 ] list index out of range
+[ Minggu, 28 - 04 - 2019 | 17:17:13 ] list index out of range
+[ Minggu, 28 - 04 - 2019 | 17:52:55 ] list index out of range
+[ Minggu, 28 - 04 - 2019 | 17:59:45 ] list index out of range
+[ Minggu, 28 - 04 - 2019 | 19:21:28 ] list index out of range
+[ Minggu, 28 - 04 - 2019 | 20:22:24 ] list index out of range
+[ Minggu, 28 - 04 - 2019 | 21:09:15 ] list index out of range
+[ Minggu, 28 - 04 - 2019 | 22:30:42 ] list index out of range
+[ Minggu, 28 - 04 - 2019 | 22:59:20 ] 'LINE' object has no attribute 'sendChatRemoved'
+[ Minggu, 28 - 04 - 2019 | 22:59:25 ] 'LINE' object has no attribute 'sendChatRemoved'
+[ Minggu, 28 - 04 - 2019 | 23:02:46 ] removeMessage() takes 2 positional arguments but 4 were given
+[ Minggu, 28 - 04 - 2019 | 23:07:15 ] removeMessage() takes 2 positional arguments but 4 were given
+[ Minggu, 28 - 04 - 2019 | 23:07:17 ] removeMessage() takes 2 positional arguments but 4 were given
+[ Minggu, 28 - 04 - 2019 | 23:10:45 ] 'LINE' object has no attribute 'sendChatRemoved'
+[ Minggu, 28 - 04 - 2019 | 23:11:29 ] removeMessage() takes 2 positional arguments but 3 were given
+[ Minggu, 28 - 04 - 2019 | 23:12:17 ] Invalid method name: 'removeMessage'
+[ Minggu, 28 - 04 - 2019 | 23:14:09 ] Invalid method name: 'removeMessage'
+[ Minggu, 28 - 04 - 2019 | 23:17:43 ] name 'self' is not defined
+[ Minggu, 28 - 04 - 2019 | 23:19:25 ] removeMessage() takes 2 positional arguments but 3 were given
+[ Minggu, 28 - 04 - 2019 | 23:22:14 ] removeMessage() takes 2 positional arguments but 3 were given
+[ Minggu, 28 - 04 - 2019 | 23:23:11 ] Invalid method name: 'removeMessage'
+[ Minggu, 28 - 04 - 2019 | 23:33:37 ] sendChatRemoved() takes 4 positional arguments but 5 were given
+[ Minggu, 28 - 04 - 2019 | 23:34:31 ] sendChatRemoved() takes 4 positional arguments but 5 were given
+[ Minggu, 28 - 04 - 2019 | 23:34:34 ] sendChatRemoved() takes 4 positional arguments but 5 were given
+[ Minggu, 28 - 04 - 2019 | 23:34:38 ] sendChatRemoved() takes 4 positional arguments but 5 were given
+[ Minggu, 28 - 04 - 2019 | 23:35:04 ] sendChatRemoved() missing 1 required positional argument: 'lastMessageId'
+[ Minggu, 28 - 04 - 2019 | 23:36:27 ] sendChatRemoved() takes 4 positional arguments but 5 were given
+[ Minggu, 28 - 04 - 2019 | 23:38:26 ] sendChatRemoved() takes 4 positional arguments but 5 were given
+[ Minggu, 28 - 04 - 2019 | 23:41:09 ] removeMessage() takes 2 positional arguments but 3 were given
+[ Minggu, 28 - 04 - 2019 | 23:44:47 ] removeMessage() takes 2 positional arguments but 3 were given
+[ Minggu, 28 - 04 - 2019 | 23:44:55 ] removeMessage() takes 2 positional arguments but 3 were given
+[ Minggu, 28 - 04 - 2019 | 23:44:57 ] removeMessage() takes 2 positional arguments but 3 were given
+[ Minggu, 28 - 04 - 2019 | 23:45:00 ] removeMessage() takes 2 positional arguments but 3 were given
+[ Minggu, 28 - 04 - 2019 | 23:45:33 ] removeMessage() takes 2 positional arguments but 3 were given
+[ Minggu, 28 - 04 - 2019 | 23:45:36 ] removeMessage() takes 2 positional arguments but 3 were given
+[ Minggu, 28 - 04 - 2019 | 23:45:38 ] removeMessage() takes 2 positional arguments but 3 were given
+[ Minggu, 28 - 04 - 2019 | 23:45:41 ] removeMessage() takes 2 positional arguments but 3 were given
+[ Senin, 29 - 04 - 2019 | 00:55:19 ] list index out of range
+[ Senin, 29 - 04 - 2019 | 01:22:02 ] list index out of range
+[ Senin, 29 - 04 - 2019 | 19:46:54 ] list index out of range
+[ Senin, 29 - 04 - 2019 | 19:55:29 ] list index out of range
+[ Senin, 29 - 04 - 2019 | 20:22:28 ] list index out of range
+[ Senin, 29 - 04 - 2019 | 22:58:48 ] list index out of range
+[ Selasa, 30 - 04 - 2019 | 00:05:50 ] list index out of range
+[ Selasa, 30 - 04 - 2019 | 00:37:29 ] list index out of range
+[ Selasa, 30 - 04 - 2019 | 00:49:33 ] list index out of range
+[ Selasa, 30 - 04 - 2019 | 23:39:45 ] list index out of range
+[ Selasa, 30 - 04 - 2019 | 23:40:59 ] list index out of range
+[ Rabu, 01 - 05 - 2019 | 00:52:19 ] list index out of range
+[ Rabu, 01 - 05 - 2019 | 01:47:05 ] list index out of range
+[ Rabu, 01 - 05 - 2019 | 02:46:05 ] list index out of range
+[ Rabu, 01 - 05 - 2019 | 05:50:37 ] list index out of range
+[ Rabu, 01 - 05 - 2019 | 08:32:14 ] list index out of range
+[ Rabu, 01 - 05 - 2019 | 10:35:58 ] list index out of range
+[ Rabu, 01 - 05 - 2019 | 10:38:19 ] list index out of range
+[ Rabu, 01 - 05 - 2019 | 10:43:46 ] list index out of range
+[ Rabu, 01 - 05 - 2019 | 12:02:22 ] list index out of range
+[ Rabu, 01 - 05 - 2019 | 12:32:20 ] list index out of range
+[ Rabu, 01 - 05 - 2019 | 12:50:58 ] list index out of range
+[ Rabu, 01 - 05 - 2019 | 13:35:20 ] list index out of range
+[ Rabu, 01 - 05 - 2019 | 21:52:41 ] list index out of range
+[ Kamis, 02 - 05 - 2019 | 05:10:14 ] list index out of range
+[ Kamis, 02 - 05 - 2019 | 11:48:15 ] list index out of range
+[ Kamis, 02 - 05 - 2019 | 12:38:30 ] list index out of range
+[ Kamis, 02 - 05 - 2019 | 16:44:57 ] list index out of range
+[ Kamis, 02 - 05 - 2019 | 17:41:46 ] list index out of range
+[ Kamis, 02 - 05 - 2019 | 18:16:34 ] list index out of range
+[ Kamis, 02 - 05 - 2019 | 20:34:47 ] list index out of range
+[ Kamis, 02 - 05 - 2019 | 20:54:06 ] list index out of range
+[ Kamis, 02 - 05 - 2019 | 20:54:21 ] list index out of range
+[ Jumat, 31 - 05 - 2019 | 23:20:04 ] list index out of range
+[ Jumat, 31 - 05 - 2019 | 23:53:35 ] list index out of range
+[ Sabtu, 01 - 06 - 2019 | 00:44:12 ] list index out of range
+[ Sabtu, 01 - 06 - 2019 | 02:50:32 ] list index out of range
+[ Sabtu, 01 - 06 - 2019 | 13:01:25 ] list index out of range
